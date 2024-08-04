@@ -8,7 +8,7 @@ Correctly categorized a number of phishing emails based on key indicators such a
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/JgsmMii.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JgsmMii.png" height="80%" width="80%" alt="Categorizing Phishing Emails"/>
 <br />
 
 
